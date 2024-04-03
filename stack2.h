@@ -11,6 +11,7 @@ private:
 	node* p_top;
 public:
 	stack () { }
+	~stack () { }
 	bool empty () const { }
 	void pop () { }
 	void push (const T& obj) { }

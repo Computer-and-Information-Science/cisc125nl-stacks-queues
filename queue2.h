@@ -15,6 +15,7 @@ private:
 	size_t count;
 public:
 	queue () { }
+	~queue () { }
 	bool empty () const { }
 	T& front() { }
 	void pop () { }
