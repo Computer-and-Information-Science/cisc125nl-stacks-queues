@@ -1,6 +1,7 @@
+#include "queue2.h"
 #include <iostream>
 using namespace std;
 
 int main () {
-    cout << "Hello World!\n";
+	queue<int> q;
 }

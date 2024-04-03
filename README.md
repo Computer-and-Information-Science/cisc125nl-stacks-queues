@@ -1,2 +1,3 @@
-# cpp-debug
-Build/Run/Debug C++ File with Codespaces
+# Stacks and Queue
+
+Starter code for in-class exercises related to stacks and queues.
